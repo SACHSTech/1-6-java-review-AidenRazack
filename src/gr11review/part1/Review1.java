@@ -1,6 +1,11 @@
 package gr11review.part1;
-
 import java.io.*;
+
+/**
+* A program that asks a user for a month and day then prints the day of the year.
+* @author: A. Razack
+*
+*/
 
 public class Review1 {
     public static void main(String[] args) throws Exception {

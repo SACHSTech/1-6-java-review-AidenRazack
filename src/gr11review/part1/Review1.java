@@ -19,10 +19,10 @@ public class Review1 {
         int day;
 
         // Ask user for month and day numbers
-        System.out.println("Enter the month number: ");
+        System.out.print("Enter the month number: ");
 		month = Integer.parseInt(key.readLine());
 
-        System.out.println("Ender the day number");
+        System.out.print("Enter the day number: ");
 		day = Integer.parseInt(key.readLine());
 
         // Test to see if the month and day inputs are within acceptable parameters

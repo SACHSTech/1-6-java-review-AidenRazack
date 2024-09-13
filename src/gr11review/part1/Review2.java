@@ -43,7 +43,7 @@ public class Review2 {
                 System.out.println("Because their class was too bright!");
                 break;
             default:
-                System.out.println("Invalid menu option.");
+                System.out.println("Invalid menu option");
                 break;
         }
     }

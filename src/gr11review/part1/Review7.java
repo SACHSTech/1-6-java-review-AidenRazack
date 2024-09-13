@@ -2,7 +2,8 @@ package gr11review.part1;
 import java.io.*;
 
 /**
-* A program that asks the user for a sentence and then outputs the number of characters, space, and latter "a"s in the sentence.
+* A program that asks the user for a sentence and then outputs the number of characters, space, letter "a"s, and odd characters
+* in the sentence.
 * @author: A. Razack
 *
 */
